@@ -4,7 +4,9 @@
   "description": "to deploy first backend app",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo 'No build step needed'"
+
   },
   "keywords": [
     "node",
