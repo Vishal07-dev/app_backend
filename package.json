@@ -1,0 +1,19 @@
+{
+  "name": "app-backend",
+  "version": "1.0.0",
+  "description": "to deploy first backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "vishal rohera",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
